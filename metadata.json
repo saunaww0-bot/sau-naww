@@ -1,0 +1,8 @@
+{
+  "name": "Cut Agency",
+  "description": "Monochrome iOS 26 Liquid Glass video and UI editing service boutique. Color grading, motion design, sound, and precision UI polish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
